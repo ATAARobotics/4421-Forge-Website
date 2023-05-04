@@ -1,0 +1,9 @@
+html {
+    font-family: helvetica;
+}
+
+.spacer {
+    position: relative;
+    height: 3.5em;
+    background-color: white;
+}

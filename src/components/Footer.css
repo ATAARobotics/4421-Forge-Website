@@ -1,0 +1,12 @@
+.footer {
+    background-color: rgb(24, 24, 24);
+    height: 20vh;
+    width: 100vw;
+    margin-top: 5vh;
+}
+
+.footer-header {
+    color: white;
+    font-size: 48px;
+    font-weight: 750;
+}
