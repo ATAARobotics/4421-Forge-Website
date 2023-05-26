@@ -1,12 +1,15 @@
 .footer {
     background-color: rgb(24, 24, 24);
-    height: 20vh;
+    height: 15em;
     width: 100vw;
     margin-top: 5vh;
 }
 
-.footer-header {
+.footer-icon {
+    padding: 10px 20px 10px 20px;
+    height: 3em;
+    width: 3em;
     color: white;
-    font-size: 48px;
-    font-weight: 750;
 }
+
+.footer-icons
